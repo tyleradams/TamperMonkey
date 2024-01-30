@@ -2,8 +2,8 @@
 // @name         Hide Elements and Show Spinner on Adopt a Shadchan
 // @namespace    http://tampermonkey.net/
 // @version      0.3
-// @description  Hide images and specific divs on Adopt a Shadchan website and show a spinner while processing, except for images with 'Resume' in the ID
-// @author       YourName
+// @description  Hide images on Adopt a Shadchan
+// @author       Tyler Adams
 // @match        https://database.adoptashadchan.com/*
 // @grant        none
 // ==/UserScript==
